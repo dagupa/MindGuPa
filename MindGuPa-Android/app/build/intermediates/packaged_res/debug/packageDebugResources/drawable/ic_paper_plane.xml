@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Ala superior/izquierda (iluminada) -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M15,50 L85,15 L45,55 Z" />
+    <!-- Ala principal derecha (azul medio) -->
+    <path
+        android:fillColor="#3D8BFD"
+        android:pathData="M85,15 L45,55 L55,85 Z" />
+    <!-- Pliegue inferior / quilla (azul sombra) -->
+    <path
+        android:fillColor="#1D4ED8"
+        android:pathData="M45,55 L55,85 L48,65 Z" />
+</vector>

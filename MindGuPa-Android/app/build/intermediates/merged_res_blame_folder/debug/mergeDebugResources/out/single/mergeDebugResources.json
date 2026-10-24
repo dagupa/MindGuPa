@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_select.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_shape_circle.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_shape_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_check_success.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_check_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_mic.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_paper_plane.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_paper_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_undo.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_undo.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_envelope.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_envelope.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_text.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_brush.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_brush.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_shape_arrow.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_shape_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_shape_line.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_shape_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_shape_text.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_shape_text.xml"
+    },
+    {
+        "merged": "com.mindgupa.app-debug-30:/drawable_ic_fill.xml.flat",
+        "source": "com.mindgupa.app-main-32:/drawable/ic_fill.xml"
+    },
+    {
+        "merged": "com.mindgupa.app-debug-30:/drawable_ic_fullscreen_exit.xml.flat",
+        "source": "com.mindgupa.app-main-32:/drawable/ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_shape_rect.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_shape_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_eraser.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_eraser.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable-nodpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable-nodpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable-nodpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable-nodpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_queue.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_queue.xml"
+    },
+    {
+        "merged": "com.mindgupa.app-debug-30:/drawable_ic_fullscreen.xml.flat",
+        "source": "com.mindgupa.app-main-32:/drawable/ic_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-debug-30:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\daemon\\8.9\\com.mindgupa.app-main-32:\\drawable\\ic_close.xml"
+    }
+]

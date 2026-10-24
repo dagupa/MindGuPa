@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_add
+drawable ic_brush
+drawable ic_camera
+drawable ic_check_success
+drawable ic_clear
+drawable ic_close
+drawable ic_envelope
+drawable ic_eraser
+drawable ic_fill
+drawable ic_fullscreen
+drawable ic_fullscreen_exit
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+drawable ic_mic
+drawable ic_paper_plane
+drawable ic_queue
+drawable ic_select
+drawable ic_send
+drawable ic_settings
+drawable ic_shape_arrow
+drawable ic_shape_circle
+drawable ic_shape_line
+drawable ic_shape_rect
+drawable ic_shape_text
+drawable ic_text
+drawable ic_undo
+mipmap ic_launcher
+mipmap ic_launcher_round

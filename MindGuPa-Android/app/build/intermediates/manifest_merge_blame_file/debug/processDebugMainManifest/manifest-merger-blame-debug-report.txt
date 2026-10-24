@@ -1,0 +1,187 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mindgupa.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:4:5-67
+11-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:5:5-65
+12-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:5:22-62
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:6:5-71
+13-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:6:22-68
+14
+15    <uses-feature
+15-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:8:5-10:36
+16        android:name="android.hardware.camera"
+16-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:9:9-47
+17        android:required="false" />
+17-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:10:9-33
+18    <uses-feature
+18-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:11:5-13:36
+19        android:name="android.hardware.microphone"
+19-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:12:9-51
+20        android:required="false" />
+20-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:13:9-33
+21
+22    <queries>
+22-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:15:5-19:15
+23        <intent>
+23-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:16:9-18:18
+24            <action android:name="android.speech.action.RECOGNIZE_SPEECH" />
+24-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:17:13-77
+24-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:17:21-74
+25        </intent>
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.mindgupa.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.mindgupa.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:21:5-49:19
+35        android:allowBackup="false"
+35-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:22:9-36
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.13.0] C:\Users\david\.gradle\caches\8.9\transforms\6102c2a8f4f7a14063065e968f521964\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:icon="@mipmap/ic_launcher"
+39-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:23:9-43
+40        android:label="MindGuPa"
+40-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:25:9-33
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:24:9-54
+42        android:supportsRtl="true"
+42-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:26:9-35
+43        android:testOnly="true"
+44        android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+44-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:28:9-71
+45        android:usesCleartextTraffic="false" >
+45-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:27:9-45
+46        <activity
+46-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:30:9-48:20
+47            android:name="com.mindgupa.app.MainActivity"
+47-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:31:13-41
+48            android:configChanges="orientation|screenSize|keyboardHidden|uiMode"
+48-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:35:13-81
+49            android:exported="true"
+49-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:32:13-36
+50            android:launchMode="singleTop"
+50-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:33:13-43
+51            android:screenOrientation="portrait"
+51-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:34:13-49
+52            android:windowSoftInputMode="adjustResize" >
+52-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:36:13-55
+53            <intent-filter>
+53-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:38:13-41:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:39:17-69
+54-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:39:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:40:17-77
+56-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:40:27-74
+57            </intent-filter>
+58            <intent-filter>
+58-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:43:13-47:29
+59                <action android:name="android.intent.action.SEND" />
+59-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:44:17-69
+59-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:44:25-66
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:45:17-76
+61-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:45:27-73
+62
+63                <data android:mimeType="text/plain" />
+63-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:46:17-55
+63-->E:\Users\david\Documents\Programas\Mindgupa\MindGuPa-Android\app\src\main\AndroidManifest.xml:46:23-52
+64            </intent-filter>
+65        </activity>
+66
+67        <service
+67-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:24:9-33:19
+68            android:name="androidx.camera.core.impl.MetadataHolderService"
+68-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:25:13-75
+69            android:enabled="false"
+69-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:26:13-36
+70            android:exported="false" >
+70-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:30:13-32:89
+72                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+72-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:31:17-103
+73                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+73-->[androidx.camera:camera-camera2:1.4.1] C:\Users\david\.gradle\caches\8.9\transforms\5007a558411cfcc85536bb5359f48ae2\transformed\camera-camera2-1.4.1\AndroidManifest.xml:32:17-86
+74        </service>
+75
+76        <provider
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+77            android:name="androidx.startup.InitializationProvider"
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:25:13-67
+78            android:authorities="com.mindgupa.app.androidx-startup"
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:26:13-68
+79            android:exported="false" >
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:27:13-37
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <receiver
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+87            android:directBootAware="false"
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+88            android:enabled="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+89            android:exported="true"
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+90            android:permission="android.permission.DUMP" >
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\david\.gradle\caches\8.9\transforms\23a44af1871b4754be5f0cb3d57e2a66\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>
